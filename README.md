@@ -55,9 +55,15 @@ This is a simple PHP-based registration and login system. Users can register wit
     - Click the "Log-Out" link on the `logged.php` page to log out and be redirected back to the registration page.
 
 ## Project Structure
+
 Registration-Form-With-Database-Using-MySQLi-/
+
 ├── register_path.php
+
 ├── login_path.php
+
 ├── logged.php
+
 ├── README.md
+
 └── other necessary files...
