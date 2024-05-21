@@ -14,8 +14,8 @@ This is a simple PHP-based registration and login system. Users can register wit
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Buczjc/Registration-Form-With-Database-Using-MySQLi-
+    cd https://github.com/Buczjc/Registration-Form-With-Database-Using-MySQLi-
     ```
 
 2. **Set up your environment:**
@@ -55,4 +55,9 @@ This is a simple PHP-based registration and login system. Users can register wit
     - Click the "Log-Out" link on the `logged.php` page to log out and be redirected back to the registration page.
 
 ## Project Structure
-
+Registration-Form-With-Database-Using-MySQLi-/
+├── register_path.php
+├── login_path.php
+├── logged.php
+├── README.md
+└── other necessary files...
