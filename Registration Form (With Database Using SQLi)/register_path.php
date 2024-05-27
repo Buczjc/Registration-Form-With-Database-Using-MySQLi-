@@ -283,7 +283,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="wave"></div>
      </div>
 
-     <!--Pop-up message for the input validation (missing username and password)-->
+     <!--Pop-up message for the successful registration-->
      <div class="popup" id="popup-1">
         <div class="overlay"></div>
         <div class="content">
